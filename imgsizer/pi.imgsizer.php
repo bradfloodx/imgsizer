@@ -4,7 +4,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 $plugin_info = array(
 	'pi_name'        => 'ImageSizer',
-	'pi_version'     => '2.6.5',
+	'pi_version'     => '2.6.6',
 	'pi_author'      => 'David Rencher',
 	'pi_author_url'  => 'http://www.lumis.com/',
 	'pi_description' => 'Image Resizer - resizes and caches images',
