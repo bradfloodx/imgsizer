@@ -457,7 +457,8 @@ function do_some_image($img) {
 			@ini_set("memory_limit","32M");
 			@ini_set("memory_limit","64M");				
 			@ini_set("memory_limit","128M");			
-			@ini_set("memory_limit","256M");		
+			@ini_set("memory_limit","256M");			
+			@ini_set("memory_limit","512M");		
 			
 				switch (
 					$info[2] ) {
